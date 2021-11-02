@@ -1,1 +1,1 @@
-console.log("Login controller")
+console.log("Changed login controller")
